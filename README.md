@@ -1,6 +1,6 @@
 # week-1-assignment-redo
 
-#Week 1 assignment
+# Week 1 assignment
 
 * During this assignment we were given starter code and were tasked to make it meet the basic acessibilty standards.
 
