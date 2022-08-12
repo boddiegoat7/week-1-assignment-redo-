@@ -1,4 +1,4 @@
-# week-1-assignment-redo
+# Week 1 assignment redo
 
 # Week 1 assignment
 
